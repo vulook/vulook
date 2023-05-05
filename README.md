@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vulook
 - 👀 I’m interested in JAVA programming, photography
-- 🌱 I’m currently learning JavaCore
+- 🌱 I’m currently learning Java and Spring, Linux & Network Administration
 - 💞️ I’m looking to collaborate as a Java developer
 - 📫 How to reach me fb: https://www.facebook.com/t45l2db63dpm/
 
